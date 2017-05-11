@@ -23,6 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
     <h1>欢迎查看九九乘法表！ </h1>
     <!-- 加入URL跳转页面 -->
-    <a href="http://localhost:9999/Print99/99.jsp">点此查看</a>
+    <a href="http://localhost:9999/print99/99.jsp">点此查看</a>
   </body>
 </html>
